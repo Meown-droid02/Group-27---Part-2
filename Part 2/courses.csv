@@ -1,0 +1,14 @@
+Course Credit,Course Code,Pre-requisite,Student Name,Lecturer Name
+1 Credits,CS111,Nil,-,no assigned lecturer
+2 Credits,CS222,Nil,-,no assigned lecturer
+3 Credits,CS113,Nil,-,no assigned lecturer
+3 Credits,CS123,Nil,-,no assigned lecturer
+3 Credits,CS133,Nil,-,no assigned lecturer
+3 Credits,CS143,Nil,-,no assigned lecturer
+4 Credits,CS214,CS113,-,no assigned lecturer
+4 Credits,CS224,CS123,-,no assigned lecturer
+4 Credits,CS234,Nil,-,no assigned lecturer
+6 Credits,CS316,CS133;CS214;completed at least 15 credits,-,no assigned lecturer
+13 Credits,CS999,Nil,-,no assigned lecturer
+13 Credits,CS999,Nil,-,no assigned lecturer
+15 Credits,CS666,Nil,-,no assigned lecturer
